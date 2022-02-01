@@ -1,7 +1,7 @@
 {
-    "name": "PartNumberGenerator",
-    "short_name": "PartNumberGenerator",
-    "description": "Welcome to PartNumberGenerator, an easy way for your entire team to generate unique numbers for your files. Everybody in your team can use this tool without worrying about duplicating a file name.",
+    "name": "NumberNUmber",
+    "short_name": "NumberNUmber",
+    "description": "Welcome to NumberNumber.net, an easy way for your entire team to generate unique numbers for your files. Everybody in your team can use this tool without worrying about duplicating a file name.",
     "display": "standalone",
     "orientation": "portrait",
     "theme_color": "#3455FD",
